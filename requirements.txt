@@ -1,0 +1,9 @@
+youtube_search
+youtube_dl
+spotipy
+eyed3
+lyricsgenius
+requests
+telepot
+ffmpeg
+bs4
