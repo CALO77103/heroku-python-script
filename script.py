@@ -6,7 +6,7 @@ import requests
 import threading
 
 
-token = 'YOUR TOKEN'
+token = '1873821358:AAErPYXiLFFVTAoHtap8Y0fFeIsaNvDIjkU'
 
 
 bot = telepot.Bot(token)
